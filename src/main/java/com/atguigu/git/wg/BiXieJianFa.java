@@ -10,7 +10,7 @@ public class BiXieJianFa {
     public static void main(String[] args) {
         System.out.println("byjf");
         System.out.println("byjf");
-        System.out.println("byjf");
+        System.out.println("byjfi");
         System.out.println("byjf");
     }
 }
